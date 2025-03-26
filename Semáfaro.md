@@ -39,4 +39,4 @@ Este projeto consiste em simular um semáforo de trânsito utilizando a platafor
 
 ## Código Arduino:
 
-![Texto alternativo](caminho/para/a/codigo.png)
+![código Arduino](codigo.png)
