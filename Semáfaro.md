@@ -12,8 +12,8 @@ Este projeto consiste em simular um semáforo de trânsito utilizando a platafor
 + **Fios jumper e protoboard**: Para fazer as conexões entre os componentes e o Arduino.
 
 ## Funcionamento do Semáforo:
-+ **Início:** O LED verde começa aceso, indicando "siga".
-+**Mudança de sinal:** Quando o botão é pressionado, ocorre a seguinte sequência:
++ Início: O LED verde começa aceso, indicando "siga".
++ Mudança de sinal: Quando o botão é pressionado, ocorre a seguinte sequência:
   1. O LED verde apaga.
   2. O LED amarelo acende por 1 segundo.
   3. O LED amarelo apaga.
