@@ -1,6 +1,6 @@
-Nome: Guilherme Ribeiro Niza	2ºS Informática
-      Alefe Santiago 
-      Derick de Freitas Prado 
+Nome: Guilherme Ribeiro Niza	2ºS Informática  
+      Alefe Santiago  
+      Derick de Freitas Prado  
       
 # Projeto: Semáforo com Arduino
 
