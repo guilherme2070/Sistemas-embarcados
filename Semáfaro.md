@@ -20,9 +20,6 @@ Este projeto consiste em simular um semáforo de trânsito utilizando a platafor
 + O LED vermelho acende por 3 segundos, indicando "pare".
 + O LED vermelho apaga e o LED verde acende novamente, reiniciando o ciclo.
 
-## Objetivo do Projeto:
-O objetivo desse projeto é simular um semáforo de trânsito utilizando o Arduino, ensinando conceitos de controle de LEDs, leitura de entradas digitais e temporização (utilizando a função `delay()`). O projeto também destaca a importância do uso de resistores para proteger os componentes e garantir que a corrente elétrica seja limitada adequadamente.
-
 ## Montagem do Circuito:
 
 1. **Conexão dos LEDs:**
