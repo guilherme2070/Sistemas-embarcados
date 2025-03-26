@@ -1,4 +1,8 @@
-# Projeto: Semáforo com Arduino
+Nome: Guilherme Ribeiro Niza	2ºS Informática
+      Alefe Santiago 
+      Derick de Freitas Prado 
+      
+Projeto: Semáforo com Arduino
 
 ## Descrição
 Este projeto consiste em simular um semáforo de trânsito utilizando a plataforma Arduino. O semáforo é controlado por três LEDs (verde, amarelo e vermelho) e um botão que simula a troca de sinais. A troca de sinais ocorre a partir da interação com o botão, onde o semáforo muda as cores dos LEDs em um ciclo definido: verde → amarelo → vermelho → verde, reiniciando o ciclo.
