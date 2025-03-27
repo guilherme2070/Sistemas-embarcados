@@ -25,19 +25,6 @@ Este projeto consiste em simular um semáforo de trânsito utilizando a platafor
 + O LED vermelho acende por 3 segundos, indicando "pare".
 + O LED vermelho apaga e o LED verde acende novamente, reiniciando o ciclo.
 
-## Montagem do Circuito:
-
-1. **Conexão dos LEDs:**
-   - O **LED verde** é conectado ao pino digital 4 do Arduino.
-   - O **LED amarelo** é conectado ao pino digital 3.
-   - O **LED vermelho** é conectado ao pino digital 2.
-   - Cada LED é conectado em série com um resistor de 220Ω para limitar a corrente.
-
-2. **Conexão do Botão:**
-   - Um terminal do botão é conectado ao pino digital 8 do Arduino.
-   - O outro terminal é conectado ao **+5V**.
-   - Um resistor de 10kΩ é colocado entre o pino digital 8 e o GND para funcionar como resistor de **pull-down**, garantindo que o pino 8 leia o estado do botão corretamente.
-
 ## Código Arduino:
 
 ![código Arduino](Codigo.png)
